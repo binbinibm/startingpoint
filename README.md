@@ -1,4 +1,4 @@
-# startingpoint
+# startingpoint ++macbook pro
 
 hello, world 2017 (readme-edits)!
 
